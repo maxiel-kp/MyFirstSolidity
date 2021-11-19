@@ -1,2 +1,0 @@
-# solidity-tutorials
-solidity tutorials
